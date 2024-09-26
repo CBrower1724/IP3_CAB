@@ -1,0 +1,1 @@
+This file is my results to our first individual project. My answers contain graphs and answers from the car sales excel data. The answers are in connection to the individual project assignments we were given. All the graphs are unique and interesting from all of the data from the excel spreadsheet. 
